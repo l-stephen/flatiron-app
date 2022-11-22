@@ -20,7 +20,7 @@ Starting the web server
 rails server
 ```
 
-#Setting a route
+### **Setting a route**
 
 A route maps a request to a controller action, routes will be created in the  ```config/routes.rb file```
 
@@ -48,7 +48,7 @@ class StaffsController < ApplicationController
 end
 ```
 
-Views
+### **Views**
 
 Rails will automatically create a view that matches the controller, views are created in the ```app/views``` directory
 
@@ -58,7 +58,7 @@ Open the views folder and replace ```app/views/staffs/index.html.erb``` with the
 <h1>Hello, Rails!</h1>
 ```
 
-#Generating a model 
+### **Generating a model**
 
 So far we have made a controller and routes, next we will create a model
 
@@ -121,7 +121,7 @@ end
 
  The above code will render all the staff as a json object
 
- Resources
+ ### **Resources**
 
 (https://guides.rubyonrails.org/getting_started.html)
 
