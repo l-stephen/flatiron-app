@@ -73,7 +73,7 @@ The above command will genereate a model, and schema with the name, email, title
 
 Another way to create a model, controller, routes,and schema is to use the rails generate resource command 
 
-Create a MVC for students
+**Create an MVC for students**
 
 ```
 rails generate resource Student name age:integer email course
