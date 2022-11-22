@@ -1,6 +1,6 @@
 # Rails Fundamentals
 
-#Creating a new rails Application
+Creating a new rails Application
 
 creating the flatiron application
 
@@ -14,7 +14,7 @@ After creating the application cd into the folder
 cd flatiron
 ```
 
-#Starting the web server
+Starting the web server
 
 ```
 rails server
@@ -48,7 +48,7 @@ class StaffsController < ApplicationController
 end
 ```
 
-#Views
+Views
 
 Rails will automatically create a view that matches the controller, views are created in the ```app/views``` directory
 
@@ -121,7 +121,7 @@ end
 
  The above code will render all the staff as a json object
 
- #Resources
+ Resources
 
 (https://guides.rubyonrails.org/getting_started.html)
 
