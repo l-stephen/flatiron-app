@@ -1,6 +1,6 @@
-# Rails Fundamentals
+# **Rails Fundamentals**
 
-Creating a new rails Application
+### **Creating a new rails Application**
 
 creating the flatiron application
 
